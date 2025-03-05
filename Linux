@@ -5,3 +5,4 @@
 mkdir 
 bwConfig
 touch config.txt 
+cat config.txt
