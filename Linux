@@ -6,3 +6,4 @@ mkdir
 bwConfig
 touch config.txt 
 cat config.txt
+timeout=45
