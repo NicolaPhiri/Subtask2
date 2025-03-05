@@ -8,3 +8,4 @@ touch config.txt
 cat config.txt
 timeout=45
 cd..
+ls
